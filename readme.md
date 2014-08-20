@@ -9,7 +9,7 @@ PI BUFFER
 
 Info
 -----
-Pi Buffer is a simple raspberry pi gpio protection bufffer, inspired in adafruit rpi breakout board ![breakout board](/images/ada.png "ada board").
+Pi Buffer is a simple raspberry pi gpio protection bufffer, inspired in adafruit rpi breakout board.
 It uses a 3 state octal buffer (74hc244) as seen on gertboard gpio protection stage. 
 
 Usage
